@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+
+kind: Deployment
+
+metadata:
+
+  name: Product-deployment
+
+  labels:
+
+    app: web
+
+spec:
+  
+  containers:
+
+    - name: product-container
+
+      image: missionreg.azurecr.io/ProductAPI:latest
+
+      ports:
+
+        - containerPort: 80
+
+   

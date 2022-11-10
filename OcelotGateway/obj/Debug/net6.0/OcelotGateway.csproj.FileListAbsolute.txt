@@ -1,0 +1,72 @@
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.exe
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.deps.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.pdb
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.AssemblyReference.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfoInputs.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfo.cs
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CoreCompileInputs.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotGateway.styles.css
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CopyComplete
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\refint\OcelotGateway.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.pdb
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.genruntimeconfig.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\ref\OcelotGateway.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\ocelot.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.exe
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.deps.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.pdb
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Ocelot.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.AssemblyReference.cache
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfoInputs.cache
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfo.cs
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CoreCompileInputs.cache
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotGateway.styles.css
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CopyComplete
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\refint\OcelotGateway.dll
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.pdb
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.genruntimeconfig.cache
+D:\new data f\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\ref\OcelotGateway.dll

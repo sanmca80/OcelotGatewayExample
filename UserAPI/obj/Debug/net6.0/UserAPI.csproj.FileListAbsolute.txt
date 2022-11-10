@@ -1,0 +1,186 @@
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\Santosh.Rawat\OneDrive - American Tower\Personal\.NetCorePratice\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.json
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.exe
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Humanizer.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.dll
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+F:\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\appsettings.json
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.exe
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Humanizer.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\new data f\OcelotGatewayExample\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+D:\new data f\OcelotGatewayExample\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
